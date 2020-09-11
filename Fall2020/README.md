@@ -1,3 +1,4 @@
-## Intro
+## Info
 
-Hi this is Fiona's read me file for the first lab of SEG4105
+Name: Fiona Macdonald
+Student Number: 8171934
